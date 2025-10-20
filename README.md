@@ -5,18 +5,50 @@
 
 ---
 
-### 🧠 Tech Stack
-**Java | Spring Boot | Hibernate | REST API | AWS | Docker | PostgreSQL | Liquibase | Maven | CI/CD | Python | HTML | CSS | Git**
+## 🧠 Tech Stack
+
+### 🧩 Languages & Core
+**Java (Core, JDK 8–21)** · **Python** · **HTML** · **CSS** · **JavaScript (basic)**  
+**OOP** · **SOLID** · **Design Patterns (GoF)**
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnGrey17&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnGrey17&layout=compact&theme=github_dark&hide_border=true)
+### ⚙️ Frameworks & Libraries
+**Spring (Core, Boot, Web, Security, Data JPA)** · **Hibernate** · **JDBC**  
+**Swagger** · **Servlets** · **Tomcat**
 
 ---
 
-### 🧩 Featured Projects
+### 🗄️ Databases
+**PostgreSQL** · **MySQL** · **SQLite**  
+**Liquibase** (DB versioning & migration)
+
+---
+
+### ☁️ Cloud & DevOps
+**AWS** (EC2 · RDS · ECR · S3 · CloudWatch · Load Balancer / Auto Scaling)  
+**Hetzner** · **Nginx** · **Docker**
+
+---
+
+### 🧪 Testing & Automation
+**JUnit** · **Mockito** · **Postman**
+
+---
+
+### 🛠️ Build & Dev Tools
+**Maven** · **Gradle** · **Git** · **GitHub** · **IntelliJ IDEA**
+
+---
+
+### 🧰 Other
+**JSON** · **Trello** · **Jira**  
+**English:** B2 *(Upper-Intermediate)*
+
+---
+
+## 🚀 Featured Projects
+
 - 🕒 [**OvertimeTracker**](https://github.com/JohnGrey17/OverTime-Trecker) — manage work hours & expenses  
 - 📰 [**DailyNews**](https://github.com/JohnGrey17/DailyNews) — web scraper for latest articles  
 - 📚 [**BookStore**](https://github.com/JohnGrey17/BookStore) — manage books, categories & authors  
@@ -24,8 +56,14 @@
 
 ---
 
-### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/serji-gainovskyi-58b631215](https://www.linkedin.com/in/serj-gainovskyi/))
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnGrey17&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnGrey17&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 📬 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serj-gainovskyi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pandastars535@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/JohnGrey17)
 
