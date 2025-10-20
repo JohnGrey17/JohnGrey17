@@ -34,10 +34,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serj-gainovskyi/)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Graybass)
 
-<pre><code id="email">pandastars535@gmail.com</code></pre>
-<button onclick="navigator.clipboard.writeText('pandastars535@gmail.com')">📋 Copy</button>
-
+📞 **Phone:** `+380 63 604 07 94`  
+📧 **Email:** `pandastars535@gmail.com`
 
 ---
 
-✨ *“Code is like humor — when you have to explain it, it’s bad.”*
