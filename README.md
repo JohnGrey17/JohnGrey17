@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Serj — Java Developer
 
 ☕ Passionate about backend development, clean architecture, and building reliable systems.  
-🌱 Currently working on **OvertimeTracker**, **BookStore**, and **DailyNews Parser**.
 
 ---
 
