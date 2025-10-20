@@ -32,12 +32,11 @@
 ## 📬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serj-gainovskyi/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandastars535@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Graybass)
 
-📞 **Phone:** +380 63 604 07 94  
-📧 **Email:** [pandastars535@gmail.com](mailto:pandastars535@gmail.com)  
-💬 **Telegram:** [@Graybass](https://t.me/Graybass)
+<pre><code id="email">pandastars535@gmail.com</code></pre>
+<button onclick="navigator.clipboard.writeText('pandastars535@gmail.com')">📋 Copy</button>
+
 
 ---
 
