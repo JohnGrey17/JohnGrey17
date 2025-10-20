@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Serj — Java Developer
 
 ☕ Passionate about backend development, clean architecture, and building reliable systems.  
-🌱 Currently working on **OvertimeTracker**, **BookStore**, and **DailyNews Parser**.
+
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 🧩 Languages & Core
-**Java (Core, JDK 8–21)** · **Python** · **HTML** · **CSS** · **JavaScript (basic)**  
+**Java (Core, JDK 8–21)** · **Python** · **HTML** · **CSS** · 
 **OOP** · **SOLID** · **Design Patterns (GoF)**
 
 ---
@@ -53,14 +53,6 @@
 - 📰 [**DailyNews**](https://github.com/JohnGrey17/DailyNews) — web scraper for latest articles  
 - 📚 [**BookStore**](https://github.com/JohnGrey17/BookStore) — manage books, categories & authors  
 - 🌦️ [**WeatherChecker**](https://github.com/JohnGrey17/WeatherChecker) — Java CLI tool for tomorrow’s forecast  
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnGrey17&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnGrey17&layout=compact&theme=github_dark&hide_border=true)
-
----
 
 ## 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serj-gainovskyi/)
