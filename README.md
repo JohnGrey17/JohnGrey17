@@ -10,7 +10,7 @@
 |:--------------|:-----------------|
 | 🧩 **Languages & Core** | Java (Core, JDK 8–21), Python, HTML, CSS, JavaScript (basic), OOP, SOLID, Design Patterns (GoF), REST API |
 | ⚙️ **Frameworks & Libraries** | Spring (Core, Boot, Web, Security, Data JPA), Hibernate, JDBC, Swagger, Servlets, Tomcat |
-| 🗄️ **Databases** | PostgreSQL, MySQL, SQLite, Liquibase (DB versioning & migration) |
+| 🗄️ **Databases** | PostgreSQL, MySQL, SQLite, MongoDB Liquibase (DB versioning & migration) |
 | ☁️ **Cloud & DevOps** | AWS (EC2, RDS, ECR, S3, CloudWatch, Load Balancer / Auto Scaling), Hetzner, Nginx, Docker |
 | 🧪 **Testing & Automation** | JUnit, Mockito, Postman |
 | 🛠️ **Build & Dev Tools** | Maven, Gradle, Git, GitHub, IntelliJ IDEA |
