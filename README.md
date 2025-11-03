@@ -21,13 +21,16 @@
 
 ## 🚀 Featured Projects
 
-- 🕒 [**OvertimeTracker**](https://github.com/JohnGrey17/OverTime-Trecker) — Web app for tracking working hours, overtime, and absences with automated salary calculations.  
+- 🕒 [**OvertimeTracker**](https://github.com/JohnGrey17/OverTime-Trecker) — Web app for tracking working hours, overtime, and absences with automated salary calculations.
+- 📚 [**BookStore**](https://github.com/JohnGrey17/BookStore) — Online bookstore with full CRUD, category management,
+- 🏡 [**Accommodation Booking App**](https://github.com/jv-feb24-group-project2/accommodation-booking-app) — Platform for property rentals with Telegram notifications, Stripe payments, and Spring Boot backend.
+- 🏡 [**Note app**](https://github.com/JohnGrey17/NotesBackendApplication) — That application is implementation of quick note fore user
+- ⛏️ [**Minecraft Plugin**](https://github.com/JohnGrey17/MineCraftPlugin) — Custom Spigot plugin adding new in-game mechanics and automation features.
 - 📰 [**DailyNews**](https://github.com/JohnGrey17/DailyNews) — Spring Boot app that scrapes and stores news articles for analysis or display.  
-- 📚 [**BookStore**](https://github.com/JohnGrey17/BookStore) — Online bookstore with full CRUD, category management, 
 - 🌦️ [**WeatherChecker**](https://github.com/JohnGrey17/WeatherChecker) — Java CLI tool fetching tomorrow’s weather for multiple cities using Retrofit.  
-- 🏡 [**Accommodation Booking App**](https://github.com/jv-feb24-group-project2/accommodation-booking-app) — Platform for property rentals with Telegram notifications, Stripe payments, and Spring Boot backend.  
-- ⛏️ [**Minecraft Plugin**](https://github.com/JohnGrey17/MineCraftPlugin) — Custom Spigot plugin adding new in-game mechanics and automation features.  
 
+  
+https://github.com/JohnGrey17/NotesBackendApplication
 ---
 
 ## 📬 Connect with me
